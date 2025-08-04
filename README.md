@@ -46,6 +46,8 @@ This project is a dynamic, insight-rich dashboard built to analyze Amazon sales 
 | `README.md`                      | Project summary and documentation            |
 
 ---
+## 🖼 Dashboard Snapshot
 
+```markdown
 ![Dashboard Preview](images/amazon_dashboard.png)
 
