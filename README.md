@@ -1,4 +1,8 @@
 # MY-AMAZON-DASHBOARD
+
+**Author:** Kiran Guru  
+**Tools Used:** Power BI, DAX, Excel  
+**File:** [Pizza_Sales_Dashboard.pbix]
 # 🛒 Amazon Sales Intelligence Dashboard
 
 Unlock hidden patterns in Amazon's e-commerce performance with this end-to-end Power BI dashboard crafted by **Kiran Guru**. From revenue drivers to geographic hotspots, this interactive report transforms raw sales data into visual intelligence for strategic decision-making.
