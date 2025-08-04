@@ -49,5 +49,5 @@ This project is a dynamic, insight-rich dashboard built to analyze Amazon sales 
 ## 🖼 Dashboard Snapshot
 
 ```markdown
-![Dashboard Preview](images/amazon_dashboard.png)
+![Dashboard Preview](C:\Users\DELL\OneDrive\Pictures\Screenshots)
 
