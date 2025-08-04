@@ -48,6 +48,6 @@ This project is a dynamic, insight-rich dashboard built to analyze Amazon sales 
 ---
 ## 🖼 Dashboard Snapshot
 
-![Amazon Dashboard Preview](images/amazon_dashboard.png)
+![Amazon Dashboard Preview]([images/amazon_dashboard.png](https://github.com/KIRANNATH-GURUNATHAN/MY-AMAZON-DASHBOARD/blob/92beee74f2aa0dd9b2dd9aba3bd53db1feeaf919/Screenshot%202025-08-04%20153149.png))
 
 
