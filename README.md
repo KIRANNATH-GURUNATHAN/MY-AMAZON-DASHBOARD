@@ -53,4 +53,23 @@ This project is a dynamic, insight-rich dashboard built to analyze Amazon sales 
 ## 🖼 Dashboard Snapshot
 ![Dashboard Screenshot](https://github.com/KIRANNATH-GURUNATHAN/MY-AMAZON-DASHBOARD/blob/25eb855e0bd4a90b3ac792f516a417bdc2d14213/amazon%20dash%20board%20ss.png)
 
+## 📥 Getting Started
+
+1. Clone this repo or download the `.pbix` file  
+2. Open it in **Power BI Desktop**  
+3. Connect it to your HR dataset (replace sample data if applicable)  
+4. Explore, filter, and interact with the visuals
+
+---
+
+## 📧 Contact
+
+**Kiran Guru**  
+📩 kiranguru1205@gmail.com  
+📍 India | Passionate Power BI Developer
+
+---
+
+## ⭐️ If you found this project useful, don’t forget to give it a star!
+
 
